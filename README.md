@@ -14,7 +14,7 @@ A simple API endpoint for sending a single, styled HTML email using Gmail and No
 
 ## 🔗 API Endpoint
 
-**POST** `http://localhost:3030/mailer/send`
+**POST** `https://mailer-f49i.onrender.com/mailer/send`
 
 ---
 

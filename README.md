@@ -15,11 +15,11 @@ A simple API for sending single or two-way styled HTML emails using Gmail and No
 
 ## 🔗 API Endpoints
 
-### **POST** `/mailer/send`
+### **POST** `https://mailer-f49i.onrender.com/mailer/send`
 
 Sends a single HTML email.
 
-### **POST** `/mailer/send-two-way`
+### **POST** `https://mailer-f49i.onrender.com/mailer/send-two-way`
 
 Sends two emails — one to the recipient, one to the sender.
 
